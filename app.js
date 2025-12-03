@@ -167,27 +167,27 @@
 // ----------------Chapter no 6-------------------
 // Question no 1
 
-var result = ("Result:")
-document.write (result +"<br>")
+// var result = ("Result:")
+// document.write (result +"<br>")
 
-var a = ("10" )
-document.write("The value of a is:" + " " + a + "<br>" + "<br>"+ "<br>")
+// var a = ("10" )
+// document.write("The value of a is:" + " " + a + "<br>" + "<br>"+ "<br>")
 
-a = ++a
-document.write("The value of ++a is:" + " " + a + "<br>")
-document.write("Now the value of a is: 11" + "<br>")
+// a = ++a
+// document.write("The value of ++a is:" + " " + a + "<br>")
+// document.write("Now the value of a is: 11" + "<br>")
 
-a = a++
-document.write("The value of a++ is:" + " " + a + "<br>")
-document.write("Now the value of a is: 12" + "<br>")
-
-
-a = a--
-document.write("The value of --a is:" + " " + a + "<br>")
-document.write("Now the value of a is: 11" + "<br>")
+// a = a++
+// document.write("The value of a++ is:" + " " + a + "<br>")
+// document.write("Now the value of a is: 12" + "<br>")
 
 
-a = a--
-document.write("The value of a-- is:" + " " + a + "<br>")
-document.write("Now the value of a is: 10"+ "<br>" )
+// a = a--
+// document.write("The value of --a is:" + " " + a + "<br>")
+// document.write("Now the value of a is: 11" + "<br>")
+
+
+// a = a--
+// document.write("The value of a-- is:" + " " + a + "<br>")
+// document.write("Now the value of a is: 10"+ "<br>" )
 
